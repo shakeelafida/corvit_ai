@@ -1,2 +1,2 @@
-# corvit_ai
+# Corvit Artificial Intellegence
 To demonstrate version
